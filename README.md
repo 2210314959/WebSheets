@@ -1,5 +1,5 @@
 # WebSheets
-A simple Lowdefy based site generator that uses Google-Sheets as a backend! 
+A simple Lowdefy based site generator that uses CMS/Google-Sheets as a backend! 
 
 Lowdefy is an amazing Lowcode framework that allows us to write websites with mere YAML!
 More about that -> https://lowdefy.com
